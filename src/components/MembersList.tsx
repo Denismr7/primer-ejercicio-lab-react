@@ -8,7 +8,6 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 
-import { mockData } from '../mockdata';
 import { Member } from '../interfaces';
 
 const useStyles = makeStyles({
